@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6CE38E132E00266B00EC2F89 /* Exceptions for "Superheroe" folder in "Superheroe" target */ = {
+		6CE38E4B2E00284600EC2F89 /* Exceptions for "Superheroe" folder in "Superheroe" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		6CE38E032E00266A00EC2F89 /* Superheroe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6CE38E132E00266B00EC2F89 /* Exceptions for "Superheroe" folder in "Superheroe" target */,
+				6CE38E4B2E00284600EC2F89 /* Exceptions for "Superheroe" folder in "Superheroe" target */,
 			);
 			path = Superheroe;
 			sourceTree = "<group>";

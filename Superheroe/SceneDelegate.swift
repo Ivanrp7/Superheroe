@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Superheroe
+//  SuperheroLeague-iOS
 //
-//  Created by Mañanas on 16/6/25.
+//  Created by Mañanas on 20/5/25.
 //
 
 import UIKit
